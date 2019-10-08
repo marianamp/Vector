@@ -1,0 +1,3 @@
+/home/marianamp/Downloads/vector/build/CMakeFiles/rebuild_cache.dir
+/home/marianamp/Downloads/vector/build/CMakeFiles/run_tests.dir
+/home/marianamp/Downloads/vector/build/CMakeFiles/edit_cache.dir
